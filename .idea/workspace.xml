@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6b731bc-b4c0-42d4-a3ae-83ecffc47dfc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec-2022-js.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lessons/lesson1/main.js" afterDir="false" />
+    <list default="true" id="c6b731bc-b4c0-42d4-a3ae-83ecffc47dfc" name="Changes" comment="dec-2022-js.iml">
+      <change afterPath="$PROJECT_DIR$/lessons/lesson 2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessons/lesson 2/main1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lessons/lesson1/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lessons/lesson1/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,11 +58,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675259074330</updated>
-      <workItem from="1675259075447" duration="10779000" />
+      <workItem from="1675259075447" duration="37014000" />
     </task>
+    <task id="LOCAL-00001" summary="dec-2022-js.iml">
+      <created>1676210019391</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676210019391</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dec-2022-js.iml" />
+    <option name="LAST_COMMIT_MESSAGE" value="dec-2022-js.iml" />
   </component>
 </project>
